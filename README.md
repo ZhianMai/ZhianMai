@@ -18,8 +18,8 @@ Check out the repos as my sample coding works here:)
   - Java design rules from <i>Effective Java</i>.
   - And more on the way...
 
-### My LeetCode Solution in Java
-  :link:[link](https://github.com/ZhianMai/MyLeetCodeSolution)
+### My LeetCode Solution in Java :link:[link](https://github.com/ZhianMai/MyLeetCodeSolution)
+  
   Collections of some leetcode problem solutions.
   Features:
   - Follow the Google Java coding styles;
@@ -28,12 +28,12 @@ Check out the repos as my sample coding works here:)
   - Detailed summary and analysis @ readme.
   - Code should be easy to understand.
 
-### Project Management App (Co-op)
-  :link:[link](https://github.com/ZhianMai/PPM_app_online)
+### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
+  
 An online app that helps user to manage projects and their tasks.
 - Frontend: React;
 - Backend: Spring Framework (Boot, Security with JWT, JPA), MySQL.
 
-### Java High Concurrency (In progress)
-  :link:[link](https://github.com/ZhianMai/Java_High_Concurrency)
+### Java High Concurrency (In progress) :link:[link](https://github.com/ZhianMai/Java_High_Concurrency)
+  
 Demo of Java NIO, zookeeper, kafka, and more...
