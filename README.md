@@ -7,6 +7,7 @@ Check out the repos as my sample coding works here:)
 ## Github Roadmap:
 
 ### Thread-safe Linked-list & Hash Map in Java   :link:[link](https://github.com/ZhianMai/Thread-safe-LinkedList-Hashmap)
+@author Zhian Mai
 
   Thread-safe linked-list & hash map using read-write lock, with multi-threaded testing.
 
@@ -20,7 +21,8 @@ Implementation Features:
   - And more on the way...
 
 ### My LeetCode Solution in Java :link:[link](https://github.com/ZhianMai/MyLeetCodeSolution)
-  
+@author Zhian Mai
+
   Collections of some leetcode problem solutions.
  
  Features:
@@ -31,11 +33,13 @@ Implementation Features:
   - Code should be easy to understand.
 
 ### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
-  
+@author AgileIntelligence
+
 An online app that helps user to manage projects and their tasks.
 - Frontend: React;
 - Backend: Spring Framework (Boot, Security with JWT, JPA), MySQL.
 
 ### Java High Concurrency (In progress) :link:[link](https://github.com/ZhianMai/Java_High_Concurrency)
-  
+@author Zhian Mai
+
 Demo of Java NIO, zookeeper, kafka, and more...
