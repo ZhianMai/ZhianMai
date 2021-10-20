@@ -9,7 +9,8 @@ Check out the repos as my sample coding works here:)
 ### Thread-safe Linked-list & Hash Map in Java   :link:[link](https://github.com/ZhianMai/Thread-safe-LinkedList-Hashmap)
 
   Thread-safe linked-list & hash map using read-write lock, with multi-threaded testing.
-  Implementation Features:
+
+Implementation Features:
   - Supports generic;
   - Supports Iterable<>;
   - Factory pattern to create hash map, based on thread-safe stragegy (no thread-safety, synchronized, and read-write lock);
@@ -21,7 +22,8 @@ Check out the repos as my sample coding works here:)
 ### My LeetCode Solution in Java :link:[link](https://github.com/ZhianMai/MyLeetCodeSolution)
   
   Collections of some leetcode problem solutions.
-  Features:
+ 
+ Features:
   - Follow the Google Java coding styles;
   - Follow some rules from <i>Effective Java</i>, such as variable naming conventions, and reusing object if possible.
   - Solutions is optimized for time O(), then for space O().
