@@ -6,8 +6,8 @@ Check out the repos as my sample coding works here:)
 
 ## Github Roadmap:
 
-### Thread-safe Linked-list & Hash Map in Java
-  :link:[link](https://github.com/ZhianMai/Thread-safe-LinkedList-Hashmap)
+### Thread-safe Linked-list & Hash Map in Java   :link:[link](https://github.com/ZhianMai/Thread-safe-LinkedList-Hashmap)
+
   Thread-safe linked-list & hash map using read-write lock, with multi-threaded testing.
   Implementation Features:
   - Supports generic;
