@@ -33,7 +33,7 @@ Implementation Features:
   - Code should be easy to understand.
 
 ### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
-@author AgileIntelligence
+@author AgileIntelligence & Zhian Mai
 
 An online app that helps user to manage projects and their tasks.
 - Frontend: React;
