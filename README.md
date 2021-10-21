@@ -29,7 +29,7 @@ Implementation Features:
  Features:
   - Follow the Google Java coding styles;
   - Follow some rules from <i>Effective Java</i>, such as variable naming conventions, and reusing object if possible.
-  - Solutions is optimized for time O(), then for space O().
+  - Solutions are optimized for time O(), then for space O().
   - Detailed summary and analysis @ readme.
   - Code should be easy to understand.
 
