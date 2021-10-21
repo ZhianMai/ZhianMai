@@ -5,7 +5,7 @@
 
 Check out the repos as my sample coding works here:)
 
-## Github Roadmap:
+## Github Roadmap
 
 ### Thread-safe Linked-list & Hash Map in Java   :link:[link](https://github.com/ZhianMai/Thread-safe-LinkedList-Hashmap)
 @author Zhian Mai
