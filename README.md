@@ -40,6 +40,11 @@ An online app that helps user to manage projects and their tasks.
 - Frontend: React;
 - Backend: Spring Framework (Boot, Security with JWT, JPA), MySQL.
 
+### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
+@author Zhian Mai
+
+Demo of multi-threading concepts, including thread creation, thread life cycle, locking, concurrency, and more. 
+
 ### Java High Concurrency (In progress) :link:[link](https://github.com/ZhianMai/Java_High_Concurrency)
 @author Zhian Mai
 
