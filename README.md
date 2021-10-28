@@ -26,6 +26,7 @@ Implementation Features:
   - And more on the way...
 
 <br />
+<hr />
 <p align="center">
   <img src="/img/leetcode.jpg" width="269" height="110" />
 </p>
@@ -43,6 +44,7 @@ Implementation Features:
   - Code should be easy to understand.
 
 <br />
+<hr />
 <p align="center">
   <img src="/img/project_management.jpg" width="659" height="338" />
 </p>
@@ -54,8 +56,8 @@ An online app that helps user to manage projects and their tasks.
 - Frontend: React;
 - Backend: Spring Framework (Boot, Security with JWT, JPA), MySQL.
 
-
 <br />
+<hr />
 <p align="center">
   <img src="/img/multi-threading.jpg" width="512" height="288" />
 </p>
@@ -66,6 +68,7 @@ An online app that helps user to manage projects and their tasks.
 Demo of multi-threading concepts, including thread creation, thread life cycle, locking, concurrency, and more. 
 
 <br />
+<hr />
 <p align="center">
   <img src="/img/high_concurrency.jpg" width="512" height="288" />
 </p>
