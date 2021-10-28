@@ -3,7 +3,7 @@
 - All these challenges can make me excited: binary search, binary tree, DFS, DP, BST... you name it!
 - My coding strictly follows Google Java style guide, SOLID principle, and concepts from <i>Effective Java</i>.
 
-Check out the repos as my sample coding works here:)
+Check out the repos below as my sample coding works here :)
 
 ## Github Roadmap
 
