@@ -7,6 +7,10 @@ Check out the repos as my sample coding works here:)
 
 ## Github Roadmap
 
+<p align="center">
+  <img src="/img/hash_map.jpg" width="458" height="170" />
+</p>
+
 ### Thread-safe Linked-list & Hash Map in Java   :link:[link](https://github.com/ZhianMai/Thread-safe-LinkedList-Hashmap)
 @author Zhian Mai
 
@@ -21,6 +25,11 @@ Implementation Features:
   - Java design rules from <i>Effective Java</i>.
   - And more on the way...
 
+<br />
+<p align="center">
+  <img src="/img/leetcode.jpg" width="269" height="110" />
+</p>
+
 ### My LeetCode Solution in Java :link:[link](https://github.com/ZhianMai/MyLeetCodeSolution)
 @author Zhian Mai
 
@@ -33,6 +42,11 @@ Implementation Features:
   - Detailed summary and analysis @ readme.
   - Code should be easy to understand.
 
+<br />
+<p align="center">
+  <img src="/img/project_management.jpg" width="659" height="338" />
+</p>
+
 ### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
 @author AgileIntelligence & Zhian Mai
 
@@ -40,10 +54,21 @@ An online app that helps user to manage projects and their tasks.
 - Frontend: React;
 - Backend: Spring Framework (Boot, Security with JWT, JPA), MySQL.
 
+
+<br />
+<p align="center">
+  <img src="/img/multi-threading.jpg" width="512" height="288" />
+</p>
+
 ### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
 @author Zhian Mai
 
 Demo of multi-threading concepts, including thread creation, thread life cycle, locking, concurrency, and more. 
+
+<br />
+<p align="center">
+  <img src="/img/high_concurrency.jpg" width="512" height="288" />
+</p>
 
 ### Java High Concurrency (In progress) :link:[link](https://github.com/ZhianMai/Java_High_Concurrency)
 @author Zhian Mai
