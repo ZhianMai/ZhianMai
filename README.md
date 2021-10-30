@@ -71,7 +71,7 @@ An online app that helps user to manage projects and their tasks.
 ### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
 @author Zhian Mai
 
-Demo of multi-threading concepts, including thread creation, thread life cycle, locking, concurrency, and more. 
+Demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, and more. 
 
 <br />
 
