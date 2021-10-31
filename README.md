@@ -14,7 +14,11 @@ Check out the repos below as my sample coding works here :)
 ### Thread-safe Linked-list & Hash Map in Java   :link:[link](https://github.com/ZhianMai/Thread-safe-LinkedList-Hashmap)
 @author Zhian Mai
 
-  Thread-safe linked-list & hash map using read-write lock, with multi-threaded testing.
+Size: :star::star::star:
+
+Complexity: :star::star::star:
+
+Implementations of thread-safe linked-list & hash map using read-write lock, with multi-threaded testing.
 
 Implementation Features:
   - Supports generic;
@@ -36,6 +40,10 @@ Implementation Features:
 ### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
 @author Zhian Mai
 
+Size: :star::star::star::star::star:
+
+Complexity: :star::star:
+
 A huge project! Demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, and more. 
 
 <br />
@@ -48,6 +56,10 @@ A huge project! Demo of multi-threading concepts, including thread creation, thr
 
 ### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
 @author AgileIntelligence & Zhian Mai
+
+Size: :star::star::star::star:
+
+Complexity: :star::star::star::star::star:
 
 An online app that helps user to manage projects and their tasks.
 - Frontend: React;
@@ -63,6 +75,10 @@ An online app that helps user to manage projects and their tasks.
 
 ### My LeetCode Solution in Java :link:[link](https://github.com/ZhianMai/MyLeetCodeSolution)
 @author Zhian Mai
+
+Size: :star::star::star::star:
+
+Complexity: :star:
 
   Collections of some leetcode problem solutions.
  
@@ -83,5 +99,9 @@ An online app that helps user to manage projects and their tasks.
 
 ### Java High Concurrency (In progress) :link:[link](https://github.com/ZhianMai/Java_High_Concurrency)
 @author Zhian Mai
+
+Size: --
+
+Complexity: --
 
 Demo of Java NIO, zookeeper, kafka, and more...
