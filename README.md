@@ -36,7 +36,7 @@ Implementation Features:
 ### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
 @author Zhian Mai
 
-Demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, and more. 
+A huge project! Demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, and more. 
 
 <br />
 
