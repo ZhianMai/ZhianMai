@@ -33,6 +33,37 @@ Implementation Features:
   <img src="/img/leetcode.jpg" width="269" height="110" />
 </p>
 
+
+### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
+@author Zhian Mai
+
+Demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, and more. 
+
+<br />
+
+## <p></p> 
+
+<p align="center">
+  <img src="/img/high_concurrency.jpg" width="512" height="288" />
+</p>
+
+
+### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
+@author AgileIntelligence & Zhian Mai
+
+An online app that helps user to manage projects and their tasks.
+- Frontend: React;
+- Backend: Spring Framework (Boot, Security with JWT, JPA), MySQL.
+
+<br />
+
+## <p></p> 
+
+<p align="center">
+  <img src="/img/multi-threading.jpg" width="512" height="288" />
+</p>
+
+
 ### My LeetCode Solution in Java :link:[link](https://github.com/ZhianMai/MyLeetCodeSolution)
 @author Zhian Mai
 
@@ -51,34 +82,6 @@ Implementation Features:
 
 <p align="center">
   <img src="/img/project_management.jpg" width="659" height="338" />
-</p>
-
-### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
-@author AgileIntelligence & Zhian Mai
-
-An online app that helps user to manage projects and their tasks.
-- Frontend: React;
-- Backend: Spring Framework (Boot, Security with JWT, JPA), MySQL.
-
-<br />
-
-## <p></p> 
-
-<p align="center">
-  <img src="/img/multi-threading.jpg" width="512" height="288" />
-</p>
-
-### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
-@author Zhian Mai
-
-Demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, and more. 
-
-<br />
-
-## <p></p> 
-
-<p align="center">
-  <img src="/img/high_concurrency.jpg" width="512" height="288" />
 </p>
 
 ### Java High Concurrency (In progress) :link:[link](https://github.com/ZhianMai/Java_High_Concurrency)
