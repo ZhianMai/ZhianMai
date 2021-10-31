@@ -20,7 +20,7 @@ Complexity: :star::star::star:
 
 Implementations of thread-safe linked-list & hash map using read-write lock, with multi-threaded testing.
 
-Implementation Features:
+Highlights:
   - Supports generic;
   - Supports Iterable<>;
   - Factory pattern to create hash map, based on thread-safe stragegy (no thread-safety, synchronized, and read-write lock);
@@ -82,7 +82,7 @@ Complexity: :star:
 
   Collections of some leetcode problem solutions.
  
- Features:
+ Highlights:
   - Follow the Google Java coding styles;
   - Follow some rules from <i>Effective Java</i>, such as variable naming conventions, and reusing object if possible.
   - Solutions are optimized for time O(), then for space O().
