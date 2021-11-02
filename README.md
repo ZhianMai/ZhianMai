@@ -54,7 +54,7 @@ A huge project! Demo of multi-threading concepts, including thread creation, thr
   <img src="/img/project_management.jpg" width="659" height="338" />
 </p>
 
-### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/PPM_app_online)
+### Project Management App (Co-op) :link:[link](https://github.com/ZhianMai/AgileintPPMTool)
 @author AgileIntelligence & Zhian Mai
 
 Size: :star::star::star::star:
