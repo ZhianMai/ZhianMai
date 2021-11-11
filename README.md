@@ -8,6 +8,23 @@ Check out the repos below as my sample coding works here :)
 ## Github Roadmap
 
 <p align="center">
+  <img src="/img/multi-threading.jpg" width="512" height="288" />
+</p>
+
+### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
+@author Zhian Mai
+
+Size: :star::star::star::star::star:
+
+Complexity: :star::star:
+
+A huge project! Detailed description & demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, use cases, and more. 
+
+<br />
+
+## <p></p> 
+
+<p align="center">
   <img src="/img/hash_map.jpg" width="458" height="170" />
 </p>
 
@@ -28,23 +45,6 @@ Highlights:
   - Multi-threaded testing guarantees no data racing on thread-safety data structure.
   - Java design rules from <i>Effective Java</i>.
   - And more on the way...
-
-<br />
-
-## <p></p> 
-
-<p align="center">
-  <img src="/img/multi-threading.jpg" width="512" height="288" />
-</p>
-
-### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
-@author Zhian Mai
-
-Size: :star::star::star::star::star:
-
-Complexity: :star::star:
-
-A huge project! Demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, use cases, and more. 
 
 <br />
 
