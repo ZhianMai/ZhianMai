@@ -11,7 +11,7 @@ Check out the repos below as my sample coding works here :)
   <img src="/img/multi-threading.jpg" width="512" height="288" />
 </p>
 
-### Multi-threading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
+### Multithreading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
 @author Zhian Mai
 
 Size: :star::star::star::star::star:
@@ -105,3 +105,7 @@ Size: --
 Complexity: --
 
 Demo of Java NIO, zookeeper, kafka, and more...
+
+## <p></p> 
+
+<i>怀旧空吟闻笛赋，到乡翻似烂柯人。</i>
