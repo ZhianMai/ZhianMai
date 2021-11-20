@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhianMai, and go by <i>Johnston</i>. Contact me @ johnstonmai11@gmail.com
-- 👀 I’m interested in problem solving & Java-related skills like Spring Framework & Java multi-threading.
+- 👀 I’m interested in problem solving and Java-related skills like Spring Framework and Java multithreading.
 - All these challenges can make me excited: binary search, binary tree, DFS, DP, BST... you name it!
 - My coding strictly follows Google Java style guide, SOLID principle, concepts from <i>Effective Java</i>, and industry standard if possible.
 
