@@ -11,7 +11,7 @@ Check out the repos below as my sample coding works here :)
   <img src="/img/multi-threading.jpg" width="512" height="288" />
 </p>
 
-### Multithreading in Java (In progress)   :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
+### Multithreading in Java  :link:[link](https://github.com/ZhianMai/Multi-threading-in-Java)
 @author Zhian Mai
 
 Size: :star::star::star::star::star:
