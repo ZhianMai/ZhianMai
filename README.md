@@ -18,7 +18,7 @@ Size: :star::star::star::star::star:
 
 Complexity: :star::star:
 
-A huge project! Detailed description & demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, concurrency, applications, and more. 
+Detailed description & demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, async callback, design pattern, applications, and more. 
 
 <br />
 
