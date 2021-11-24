@@ -113,3 +113,7 @@ Demo of Java NIO, zookeeper, kafka, and more...
 <i>“怀旧空吟闻笛赋，到乡翻似烂柯人。” ——《酬乐天扬州初逢席上见赠》</i>
 
 <i>“孔乙己显出极高兴的样子，将两个指头的长指甲敲着柜台，点头说，‘对呀对呀！“回”字有四样写法，你知道么？’” ——《孔乙己》</i>
+
+<i>“Have more than you show, Speak less than you know.” ― William Shakespeare</i>
+
+<i> "Talk is cheap. Show me the code." ― Linus Torvalds</i>
