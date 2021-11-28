@@ -101,6 +101,8 @@ Complexity: :star:
 
 Demo of design patterns in java.
 
+<br />
+
 ## <p></p>
 <p align="center">
   <img src="/img/high_concurrency.jpg" width="512" height="288" />
@@ -114,6 +116,8 @@ Size: --
 Complexity: --
 
 Demo of Java NIO, zookeeper, kafka, and more...
+
+<br />
 
 ## <p></p> 
 
