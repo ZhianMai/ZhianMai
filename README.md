@@ -92,7 +92,16 @@ Complexity: :star:
 <br />
 
 ## <p></p> 
+<p align="center">
+  <img src="/img/design_patterns.jpeg" width="512" height="273" />
+</p>
 
+### Design Patterns in Java (In progress) :link:[link](https://github.com/ZhianMai/Design-Pattern-in-Java)
+@author Zhian Mai
+
+Demo of design patterns in java.
+
+## <p></p>
 <p align="center">
   <img src="/img/high_concurrency.jpg" width="512" height="288" />
 </p>
