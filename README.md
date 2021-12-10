@@ -16,7 +16,7 @@ Check out the repos below as my sample coding works here :)
 
 Size: :star::star::star::star::star:
 
-Complexity: :star::star:
+Complexity: :star::star::star:
 
 Detailed description & demo of multi-threading concepts, including thread creation, thread pool, thread life cycle, locking, async callback, design patterns for high concurrency, applications, and more. 
 
@@ -101,7 +101,7 @@ Complexity: :star:
 
 Size: :star::star:
 
-Complexity: :star::star::star:
+Complexity: :star:
 
 Demo of design patterns in java.
 
