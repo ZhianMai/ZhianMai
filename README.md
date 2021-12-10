@@ -96,8 +96,12 @@ Complexity: :star:
   <img src="/img/design_patterns.jpeg" width="512" height="273" />
 </p>
 
-### Design Patterns in Java (In progress) :link:[link](https://github.com/ZhianMai/Design-Pattern-in-Java)
+### Design Patterns in Java :link:[link](https://github.com/ZhianMai/Design-Pattern-in-Java)
 @author Zhian Mai
+
+Size: :star::star:
+
+Complexity: :star::star::star:
 
 Demo of design patterns in java.
 
