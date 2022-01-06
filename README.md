@@ -78,7 +78,7 @@ An online app that helps user to manage projects and their tasks.
 
 Size: :star::star::star::star:
 
-Complexity: :star:
+Complexity: :star::star:
 
   Collections of some leetcode problem solutions.
  
