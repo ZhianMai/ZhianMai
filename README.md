@@ -38,12 +38,12 @@ Complexity: :star::star::star:
 Implementations of thread-safe linked-list & hash map using read-write lock, with multi-threaded testing.
 
 Highlights:
-  - Supports generic;
-  - Supports Iterable<>;
+  - Support generic;
+  - Support Iterable<>;
   - Factory pattern to create hash map, based on thread-safe stragegy (no thread-safety, synchronized, and read-write lock);
   - Read-write lock provided by ReentrantReadWriteLock;
-  - Multi-threaded testing guarantees no data racing on thread-safety data structure.
-  - Java design rules from <i>Effective Java</i>.
+  - Multi-threaded testing guarantees no data racing on thread-safety data structure;
+  - Java design rules from <i>Effective Java</i>;
   - And more on the way...
 
 <br />
