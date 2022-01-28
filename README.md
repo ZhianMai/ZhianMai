@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhianMai, and go by <i>Johnston</i>. Contact me @ johnstonmai11@gmail.com
 - 👀 I’m interested in problem solving and Java-related skills like Spring Framework and Java multithreading.
-- All these challenges can make me excited: binary search, binary tree, DFS, DP, BST... you name it!
+- All these challenges can make me excited: binary search, binary tree, BST, DFS, BFS, DP... you name it!
 - My coding strictly follows Google Java style guide, SOLID principle, concepts from <i>Effective Java</i>, and industry standard if appliable.
 
 Check out the repos below as my sample coding works here :)
